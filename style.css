@@ -24,5 +24,9 @@ body {
 }
 
 .evidenziata {
-	background: red;
+	background: cyan;
+}
+
+.bomba {
+	background-color: red;
 }
